@@ -321,12 +321,14 @@
 -r:"D:/Program Files/Unity/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"D:/Program Files/Unity/Editor/2021.3.19f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"D:/Program Files/Unity/Editor/2021.3.19f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/NewAssembly.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/ControllersAssembly.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Scripts/Tests/NewTestScript.cs"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UtilsAssembly.ref.dll"
+"Assets/Scripts/Tests/MathFunctionsTest.cs"
+"Assets/Scripts/Tests/PlayerControllerTest.cs"
 -langversion:9.0
 
 /deterministic
